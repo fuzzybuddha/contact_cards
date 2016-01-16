@@ -1,0 +1,20 @@
+body {
+	display: block;
+}
+.container {
+	margin-top: 40px;
+}
+.form {
+	width: 300px;
+}
+.margin-bottom {
+	margin-bottom: 15px;
+}
+textarea {
+	width: 250px;
+}
+.contact {
+	border: 1px solid black;
+	padding: 20px;
+	margin-bottom: 15px;
+}
